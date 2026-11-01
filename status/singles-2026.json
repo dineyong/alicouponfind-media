@@ -1,37 +1,43 @@
 {
-  "updatedAt": "2026-11-01T20:30:00+09:00",
+  "updatedAt": "2026-11-01T20:45:00+09:00",
   "basis": "펨코·퀘이사존·뽐뿌·DC 알리갤·루리웹 제보 기준",
-  "headline": "KB 22달러 카드 할인 18:30쯤 소진 제보",
+  "headline": "우리 VISA 20달러 할인, 저녁에도 적용 제보",
   "cards": [
-    {
-      "name": "KB국민 VISA",
-      "offer": "US$100 이상 US$22",
-      "status": "soldout",
-      "note": "12:00 리필 → 18:30쯤 소진 제보"
-    },
     {
       "name": "우리 VISA",
       "offer": "US$100 이상 US$20",
       "status": "live",
-      "note": "적용 제보 있음 · ID당 1회"
+      "note": "20시 넘어서도 적용 제보 · ID당 1회"
     },
     {
-      "name": "롯데 VISA",
-      "offer": "US$70 이상 US$14",
+      "name": "KB국민 VISA",
+      "offer": "US$150 이상 US$22 (제보 기준)",
       "status": "soldout",
-      "note": "오전 소진 제보"
+      "note": "18:30쯤 소진 제보 · 최소 금액이 150달러라는 제보가 많아요"
     },
     {
       "name": "하나 Mastercard",
       "offer": "US$100 이상 US$15",
       "status": "soldout",
-      "note": "소진 제보"
+      "note": "19:30쯤 소진 제보"
     },
     {
-      "name": "그 밖의 카드",
-      "offer": "카드사별 상이",
+      "name": "롯데 VISA",
+      "offer": "US$70 이상 US$14",
+      "status": "soldout",
+      "note": "오전 소진 제보 · 이후 소식 없음"
+    },
+    {
+      "name": "그 밖의 Mastercard",
+      "offer": "US$100 이상 US$15",
       "status": "unknown",
-      "note": "확인된 제보 없음"
+      "note": "KB·신한·삼성 등, 적용 여부 제보가 엇갈려요"
+    },
+    {
+      "name": "NH·UnionPay",
+      "offer": "US$100 이상 US$16",
+      "status": "unknown",
+      "note": "할인코드와 같이 안 됐다는 제보 1건"
     }
   ],
   "buys": [
@@ -46,19 +52,19 @@
       "how": "할인코드 + 롯데 VISA"
     },
     {
+      "item": "AULA F108 Pro V2 키보드",
+      "paid": "4.6만원대",
+      "how": "코인 + 할인코드"
+    },
+    {
       "item": "샤오미 패드 12.7",
       "paid": "18.6만원",
       "how": "할인코드 + 카드 할인"
     },
     {
-      "item": "GMKtec M8 미니PC",
-      "paid": "US$146.88",
-      "how": "할인코드 + KB국민 VISA"
-    },
-    {
-      "item": "에디파이어 M90 스피커",
-      "paid": "14.9만원",
-      "how": "카드 할인 없이 간편결제"
+      "item": "ASUS TUF BE6500 공유기",
+      "paid": "약 US$86",
+      "how": "할인코드 + 카드 할인"
     },
     {
       "item": "벤션 10000mAh 보조배터리",
@@ -75,7 +81,11 @@
   "news": [
     {
       "at": "11.01",
-      "text": "샤오신패드 일부 모델, 오픈 몇 시간 만에 품절 제보"
+      "text": "GMKtec M8 미니PC, 할인 수량이 오픈 10분 만에 끝났다는 제보"
+    },
+    {
+      "at": "11.01",
+      "text": "결제수단을 바꿨다가 돌아오면 할인코드가 '만료'로 뜨는 경우가 있어요. 다시 넣으면 된다는 제보"
     },
     {
       "at": "11.01",
@@ -83,7 +93,7 @@
     },
     {
       "at": "11.02",
-      "text": "선착순 쿠폰 날 (시간·금액은 공지 전)"
+      "text": "선착순 쿠폰 날 (시간·금액은 아직 공지 전)"
     }
   ]
 }
