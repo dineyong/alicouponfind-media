@@ -7,13 +7,15 @@
       "name": "우리 VISA",
       "offer": "US$100 이상 US$20",
       "status": "live",
-      "note": "20시 넘어서도 적용 제보 · ID당 1회"
+      "note": "20시 넘어서도 적용 제보 · ID당 1회",
+      "calc": "우리 VISA"
     },
     {
       "name": "KB국민 VISA",
       "offer": "US$150 이상 US$22",
       "status": "soldout",
-      "note": "18:30쯤 소진 제보 · 최소 금액이 150달러라는 제보가 많아요"
+      "note": "18:30쯤 소진 제보 · 최소 금액이 150달러라는 제보가 많아요",
+      "calc": "KB국민 VISA"
     },
     {
       "name": "하나 Mastercard",
@@ -25,19 +27,22 @@
       "name": "롯데 VISA",
       "offer": "US$70 이상 US$14",
       "status": "soldout",
-      "note": "오전 소진 제보 · 이후 소식 없음"
+      "note": "오전 소진 제보 · 이후 소식 없음",
+      "calc": "롯데 VISA"
     },
     {
       "name": "그 밖의 Mastercard",
       "offer": "US$100 이상 US$15",
       "status": "unknown",
-      "note": "KB·신한·삼성 등, 적용 여부 제보가 엇갈려요"
+      "note": "KB·신한·삼성 등, 적용 여부 제보가 엇갈려요",
+      "calc": "KB·신한·삼성·하나·IBK·롯데·BC·토스뱅크 Mastercard"
     },
     {
       "name": "NH·UnionPay",
       "offer": "US$100 이상 US$16",
       "status": "unknown",
-      "note": "할인코드와 같이 안 됐다는 제보 1건"
+      "note": "할인코드와 같이 안 됐다는 제보 1건",
+      "calc": "UnionPay·NH농협"
     }
   ],
   "buys": [
