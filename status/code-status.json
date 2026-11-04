@@ -1,0 +1,28 @@
+{
+ "checkedAt": "2026-11-04T19:50:46+09:00",
+ "method": "알리 결제 화면에서 코드 직접 입력 (주문 안 함)",
+ "currency": "KRW",
+ "codes": {
+  "LJMW04": {
+   "state": "soldout"
+  },
+  "PDEX08": {
+   "state": "soldout"
+  },
+  "PSEY14": {
+   "state": "soldout"
+  },
+  "UFTZ13": {
+   "state": "soldout"
+  },
+  "LPGQ19": {
+   "state": "soldout"
+  },
+  "PQWM31": {
+   "state": "soldout"
+  },
+  "ZXYH28": {
+   "state": "soldout"
+  }
+ }
+}
