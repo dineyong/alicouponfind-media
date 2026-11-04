@@ -1,7 +1,6 @@
 {
- "checkedAt": "2026-11-04T22:24:09+09:00",
+ "checkedAt": "2026-11-04T23:27:44+09:00",
  "method": "알리 결제 화면에서 코드 직접 입력 (주문 안 함)",
- "currency": "KRW",
  "codes": {
   "LJMW04": {
    "state": "soldout"
@@ -23,6 +22,24 @@
   },
   "ZXYH28": {
    "state": "soldout"
+  },
+  "GONS04": {
+   "state": "ok"
+  },
+  "GONS08": {
+   "state": "ok"
+  },
+  "GONS13": {
+   "state": "ok"
+  },
+  "GONS19": {
+   "state": "soldout"
+  },
+  "GONS28": {
+   "state": "ok"
+  },
+  "GONS45": {
+   "state": "ok"
   }
  }
 }
