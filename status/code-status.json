@@ -1,21 +1,21 @@
 {
- "checkedAt": "2026-11-05T17:29:48+09:00",
+ "checkedAt": "2026-11-05T18:32:13+09:00",
  "method": "알리 결제 화면에서 코드 직접 입력 (주문 안 함)",
  "codes": {
   "LJMW04": {
-   "state": "ok"
+   "state": "unknown"
   },
   "PDEX08": {
-   "state": "ok"
+   "state": "unknown"
   },
   "PSEY14": {
-   "state": "ok"
+   "state": "unknown"
   },
   "UFTZ13": {
    "state": "unknown"
   },
   "LPGQ19": {
-   "state": "ok"
+   "state": "unknown"
   },
   "PQWM31": {
    "state": "soldout"
