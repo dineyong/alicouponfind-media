@@ -1,5 +1,5 @@
 {
- "checkedAt": "2026-11-09T23:32:48+09:00",
+ "checkedAt": "2026-11-10T08:32:37+09:00",
  "method": "알리 결제 화면에서 코드 직접 입력 (주문 안 함)",
  "codes": {
   "LJMW04": {
@@ -30,7 +30,7 @@
    "state": "unknown"
   },
   "GONS08": {
-   "state": "unknown"
+   "state": "soldout"
   },
   "GONS13": {
    "state": "soldout"
