@@ -1,5 +1,5 @@
 {
- "checkedAt": "2026-11-10T16:33:39+09:00",
+ "checkedAt": "2026-11-10T17:29:54+09:00",
  "method": "알리 결제 화면에서 코드 직접 입력 (주문 안 함)",
  "codes": {
   "LJMW04": {
@@ -27,22 +27,22 @@
    "state": "soldout"
   },
   "GONS04": {
-   "state": "soldout"
+   "state": "ok"
   },
   "GONS08": {
-   "state": "soldout"
+   "state": "ok"
   },
   "GONS13": {
-   "state": "soldout"
+   "state": "ok"
   },
   "GONS19": {
-   "state": "soldout"
+   "state": "ok"
   },
   "GONS28": {
-   "state": "soldout"
+   "state": "ok"
   },
   "GONS45": {
-   "state": "soldout"
+   "state": "ok"
   }
  }
 }
