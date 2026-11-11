@@ -1,5 +1,5 @@
 {
- "checkedAt": "2026-11-11T21:32:09+09:00",
+ "checkedAt": "2026-11-11T22:31:21+09:00",
  "method": "알리 결제 화면에서 코드 직접 입력 (주문 안 함)",
  "codes": {
   "LJMW04": {
@@ -9,7 +9,7 @@
    "state": "ok"
   },
   "PSEY14": {
-   "state": "unknown"
+   "state": "ok"
   },
   "UFTZ13": {
    "state": "ok"
@@ -27,7 +27,7 @@
    "state": "ok"
   },
   "EBPD45": {
-   "state": "unknown"
+   "state": "ok"
   },
   "GONS04": {
    "state": "ok"
