@@ -1,169 +1,169 @@
 {
-  "updatedAt": "2026-11-19T02:00:00+09:00",
-  "basis": "결제창 직접 확인·알리 공식 배너·커뮤니티 제보 기준",
-  "headline": "원화 코드 소진, 달러 GONG 사용 가능",
-  "codes": [
-    {
-      "code": "SUKR03",
-      "currency": "KRW",
-      "minimum": 30000,
-      "discount": 4300,
-      "state": "soldout",
-      "checkedAt": "2026-11-19T01:51:54+09:00",
-      "soldoutAt": "11.19 01:51"
-    },
-    {
-      "code": "GHRE08",
-      "currency": "KRW",
-      "minimum": 80000,
-      "discount": 11000,
-      "state": "soldout",
-      "checkedAt": "2026-11-19T01:51:54+09:00",
-      "soldoutAt": "11.19 01:51"
-    },
-    {
-      "code": "ZXYH13",
-      "currency": "KRW",
-      "minimum": 130000,
-      "discount": 17000,
-      "state": "soldout",
-      "checkedAt": "2026-11-19T01:51:54+09:00",
-      "soldoutAt": "11.19 00:45"
-    },
-    {
-      "code": "POLK19",
-      "currency": "KRW",
-      "minimum": 200000,
-      "discount": 25000,
-      "state": "soldout",
-      "checkedAt": "2026-11-19T01:51:54+09:00",
-      "soldoutAt": "11.19 00:45"
-    },
-    {
-      "code": "FXNT26",
-      "currency": "KRW",
-      "minimum": 300000,
-      "discount": 36000,
-      "state": "soldout",
-      "checkedAt": "2026-11-19T01:51:54+09:00",
-      "soldoutAt": "11.19 00:45"
-    },
-    {
-      "code": "LKWA45",
-      "currency": "KRW",
-      "minimum": 500000,
-      "discount": 60000,
-      "state": "soldout",
-      "checkedAt": "2026-11-19T01:51:54+09:00",
-      "soldoutAt": "11.19 00:45"
-    },
-    {
-      "code": "GONG03",
-      "currency": "USD",
-      "minimum": 21,
-      "discount": 3,
-      "state": "ok",
-      "checkedAt": "2026-11-19T01:51:54+09:00",
-      "soldoutAt": null
-    },
-    {
-      "code": "GONG08",
-      "currency": "USD",
-      "minimum": 58,
-      "discount": 8,
-      "state": "ok",
-      "checkedAt": "2026-11-19T01:51:54+09:00",
-      "soldoutAt": null
-    },
-    {
-      "code": "GONG13",
-      "currency": "USD",
-      "minimum": 98,
-      "discount": 13,
-      "state": "ok",
-      "checkedAt": "2026-11-19T01:51:54+09:00",
-      "soldoutAt": null
-    },
-    {
-      "code": "GONG19",
-      "currency": "USD",
-      "minimum": 149,
-      "discount": 19,
-      "state": "ok",
-      "checkedAt": "2026-11-19T01:51:54+09:00",
-      "soldoutAt": null
-    },
-    {
-      "code": "GONG26",
-      "currency": "USD",
-      "minimum": 222,
-      "discount": 26,
-      "state": "ok",
-      "checkedAt": "2026-11-19T01:51:54+09:00",
-      "soldoutAt": null
-    },
-    {
-      "code": "GONG45",
-      "currency": "USD",
-      "minimum": 375,
-      "discount": 45,
-      "state": "ok",
-      "checkedAt": "2026-11-19T01:51:54+09:00",
-      "soldoutAt": null
-    }
-  ],
-  "cards": [
-    {
-      "name": "롯데 VISA",
-      "offer": "US$100 이상 US$30",
-      "status": "live",
-      "note": "11.19 01:55 결제 화면에 할인 표시, 체크카드는 안 된다는 제보",
-      "calc": "롯데 VISA"
-    },
-    {
-      "name": "KB국민 VISA",
-      "offer": "US$150 이상 US$22",
-      "status": "unknown",
-      "note": "공식 안내 기준, 결제 화면 확인 전",
-      "calc": "KB국민 VISA"
-    },
-    {
-      "name": "우리 VISA",
-      "offer": "US$100 이상 US$20",
-      "status": "live",
-      "note": "11.19 01:55 결제 화면에 할인 표시",
-      "calc": "우리 VISA"
-    },
-    {
-      "name": "UnionPay, NH농협",
-      "offer": "US$100 이상 US$16",
-      "status": "live",
-      "note": "11.19 01:55 결제 화면에 할인 표시 (NH 마스터, JCB, UPI 포함)",
-      "calc": "UnionPay·NH농협"
-    },
-    {
-      "name": "Mastercard 등 여러 카드",
-      "offer": "US$100 이상 US$15",
-      "status": "live",
-      "note": "11.19 01:55 KB Mastercard 할인 표시, 카드사마다 다를 수 있어요"
-    },
-    {
-      "name": "카카오, 네이버, 토스페이",
-      "offer": "16만 원 이상 13,000원",
-      "status": "live",
-      "note": "11.19 01:55 결제 화면에 최대 13,000원 할인 표시"
-    }
-  ],
-  "buys": [],
-  "gotchas": [
-    "원화 할인코드 6개는 블프 시작 2시간 만에 모두 소진됐어요. 지금은 달러 결제 + GONG 코드 + 카드 할인 조합을 보세요",
-    "롯데 VISA 카드 할인은 신용카드만 되고 체크카드는 안 된다는 제보가 있어요",
-    "할인코드는 주문 1건에 1개예요. 카드 할인은 달러 결제, 페이 할인은 원화 결제에서 받아요"
-  ],
-  "news": [
-    {
-      "at": "11.19",
-      "text": "블랙프라이데이가 11월 19일 00:00부터 12월 3일 23:59까지 열렸어요. 알리 공식 배너의 원화 코드 6개는 00:45~01:51 사이에 모두 소진됐고, 공식 제휴 달러 코드 GONG 6개는 01:51 결제창 확인에서 모두 적용돼요"
-    }
-  ]
+ "updatedAt": "2026-11-19T08:25:00+09:00",
+ "basis": "결제창 직접 확인·알리 공식 배너·커뮤니티 제보 기준",
+ "headline": "원화 코드 소진, 달러 GONG 사용 가능",
+ "codes": [
+  {
+   "code": "SUKR03",
+   "currency": "KRW",
+   "minimum": 30000,
+   "discount": 4300,
+   "state": "soldout",
+   "checkedAt": "2026-11-19T08:22:52+09:00",
+   "soldoutAt": "11.19 01:51"
+  },
+  {
+   "code": "GHRE08",
+   "currency": "KRW",
+   "minimum": 80000,
+   "discount": 11000,
+   "state": "soldout",
+   "checkedAt": "2026-11-19T08:22:52+09:00",
+   "soldoutAt": "11.19 01:51"
+  },
+  {
+   "code": "ZXYH13",
+   "currency": "KRW",
+   "minimum": 130000,
+   "discount": 17000,
+   "state": "soldout",
+   "checkedAt": "2026-11-19T08:22:52+09:00",
+   "soldoutAt": "11.19 00:45"
+  },
+  {
+   "code": "POLK19",
+   "currency": "KRW",
+   "minimum": 200000,
+   "discount": 25000,
+   "state": "soldout",
+   "checkedAt": "2026-11-19T08:22:52+09:00",
+   "soldoutAt": "11.19 00:45"
+  },
+  {
+   "code": "FXNT26",
+   "currency": "KRW",
+   "minimum": 300000,
+   "discount": 36000,
+   "state": "soldout",
+   "checkedAt": "2026-11-19T08:22:52+09:00",
+   "soldoutAt": "11.19 00:45"
+  },
+  {
+   "code": "LKWA45",
+   "currency": "KRW",
+   "minimum": 500000,
+   "discount": 60000,
+   "state": "soldout",
+   "checkedAt": "2026-11-19T08:22:52+09:00",
+   "soldoutAt": "11.19 00:45"
+  },
+  {
+   "code": "GONG03",
+   "currency": "USD",
+   "minimum": 21,
+   "discount": 3,
+   "state": "ok",
+   "checkedAt": "2026-11-19T08:22:52+09:00",
+   "soldoutAt": null
+  },
+  {
+   "code": "GONG08",
+   "currency": "USD",
+   "minimum": 58,
+   "discount": 8,
+   "state": "ok",
+   "checkedAt": "2026-11-19T08:22:52+09:00",
+   "soldoutAt": null
+  },
+  {
+   "code": "GONG13",
+   "currency": "USD",
+   "minimum": 98,
+   "discount": 13,
+   "state": "ok",
+   "checkedAt": "2026-11-19T08:22:52+09:00",
+   "soldoutAt": null
+  },
+  {
+   "code": "GONG19",
+   "currency": "USD",
+   "minimum": 149,
+   "discount": 19,
+   "state": "ok",
+   "checkedAt": "2026-11-19T08:22:52+09:00",
+   "soldoutAt": null
+  },
+  {
+   "code": "GONG26",
+   "currency": "USD",
+   "minimum": 222,
+   "discount": 26,
+   "state": "ok",
+   "checkedAt": "2026-11-19T08:22:52+09:00",
+   "soldoutAt": null
+  },
+  {
+   "code": "GONG45",
+   "currency": "USD",
+   "minimum": 375,
+   "discount": 45,
+   "state": "ok",
+   "checkedAt": "2026-11-19T08:22:52+09:00",
+   "soldoutAt": null
+  }
+ ],
+ "cards": [
+  {
+   "name": "롯데 VISA",
+   "offer": "US$100 이상 US$30",
+   "status": "live",
+   "note": "11.19 01:55 결제 화면에 할인 표시, 체크카드는 안 된다는 제보",
+   "calc": "롯데 VISA"
+  },
+  {
+   "name": "KB국민 VISA",
+   "offer": "US$150 이상 US$22",
+   "status": "unknown",
+   "note": "공식 안내 기준, 결제 화면 확인 전",
+   "calc": "KB국민 VISA"
+  },
+  {
+   "name": "우리 VISA",
+   "offer": "US$100 이상 US$20",
+   "status": "live",
+   "note": "11.19 01:55 결제 화면에 할인 표시",
+   "calc": "우리 VISA"
+  },
+  {
+   "name": "UnionPay, NH농협",
+   "offer": "US$100 이상 US$16",
+   "status": "live",
+   "note": "11.19 01:55 결제 화면에 할인 표시 (NH 마스터, JCB, UPI 포함)",
+   "calc": "UnionPay·NH농협"
+  },
+  {
+   "name": "Mastercard 등 여러 카드",
+   "offer": "US$100 이상 US$15",
+   "status": "live",
+   "note": "11.19 01:55 KB Mastercard 할인 표시, 카드사마다 다를 수 있어요"
+  },
+  {
+   "name": "카카오, 네이버, 토스페이",
+   "offer": "16만 원 이상 13,000원",
+   "status": "live",
+   "note": "11.19 01:55 결제 화면에 최대 13,000원 할인 표시"
+  }
+ ],
+ "buys": [],
+ "gotchas": [
+  "원화 할인코드 6개는 블프 시작 2시간 만에 모두 소진됐어요. 지금은 달러 결제 + GONG 코드 + 카드 할인 조합을 보세요",
+  "롯데 VISA 카드 할인은 신용카드만 되고 체크카드는 안 된다는 제보가 있어요",
+  "할인코드는 주문 1건에 1개예요. 카드 할인은 달러 결제, 페이 할인은 원화 결제에서 받아요"
+ ],
+ "news": [
+  {
+   "at": "11.19",
+   "text": "블랙프라이데이가 11월 19일 00:00부터 12월 3일 23:59까지 열렸어요. 알리 공식 배너의 원화 코드 6개는 00:45~01:51 사이에 모두 소진됐고, 공식 제휴 달러 코드 GONG 6개는 01:51 결제창 확인에서 모두 적용돼요"
+  }
+ ]
 }
