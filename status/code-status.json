@@ -1,51 +1,24 @@
 {
- "checkedAt": "2026-11-18T23:30:01+09:00",
+ "checkedAt": "2026-11-19T00:11:31+09:00",
  "method": "알리 결제 화면에서 코드 직접 입력 (주문 안 함)",
  "codes": {
-  "LJMW04": {
+  "GONG03": {
    "state": "ok"
   },
-  "PDEX08": {
+  "GONG08": {
    "state": "ok"
   },
-  "PSEY14": {
+  "GONG13": {
    "state": "ok"
   },
-  "UFTZ13": {
+  "GONG19": {
    "state": "ok"
   },
-  "ONLY11": {
+  "GONG26": {
    "state": "ok"
   },
-  "LPGQ19": {
+  "GONG45": {
    "state": "ok"
-  },
-  "PQWM31": {
-   "state": "ok"
-  },
-  "ZXYH28": {
-   "state": "ok"
-  },
-  "EBPD45": {
-   "state": "ok"
-  },
-  "GONS04": {
-   "state": "soldout"
-  },
-  "GONS08": {
-   "state": "soldout"
-  },
-  "GONS13": {
-   "state": "soldout"
-  },
-  "GONS19": {
-   "state": "soldout"
-  },
-  "GONS28": {
-   "state": "soldout"
-  },
-  "GONS45": {
-   "state": "soldout"
   }
  }
 }
