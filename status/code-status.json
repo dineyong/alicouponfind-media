@@ -1,15 +1,15 @@
 {
- "checkedAt": "2026-11-19T16:27:09+09:00",
+ "checkedAt": "2026-11-19T17:27:43+09:00",
  "method": "알리 결제 화면에서 코드 직접 입력 (주문 안 함)",
  "codes": {
   "SUKR03": {
-   "state": "soldout"
+   "state": "ok"
   },
   "GHRE08": {
-   "state": "soldout"
+   "state": "ok"
   },
   "ZXYH13": {
-   "state": "soldout"
+   "state": "ok"
   },
   "POLK19": {
    "state": "soldout"
