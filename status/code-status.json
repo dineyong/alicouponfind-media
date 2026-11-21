@@ -1,5 +1,5 @@
 {
- "checkedAt": "2026-11-21T14:38:15+09:00",
+ "checkedAt": "2026-11-21T15:28:48+09:00",
  "method": "알리 결제 화면에서 코드 직접 입력 (주문 안 함)",
  "codes": {
   "SUKR03": {
@@ -27,7 +27,7 @@
    "state": "ok"
   },
   "GONG13": {
-   "state": "unknown"
+   "state": "ok"
   },
   "GONG19": {
    "state": "ok"
