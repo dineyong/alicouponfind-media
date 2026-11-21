@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-21T17:30:00+09:00",
+ "updatedAt": "2026-11-21T18:30:00+09:00",
  "basis": "결제창 직접 확인·알리 공식 배너·커뮤니티 제보 기준",
  "headline": "원화 코드 4개 사용 가능 (19:28)",
  "codes": [
@@ -9,7 +9,7 @@
    "minimum": 30000,
    "discount": 4300,
    "state": "ok",
-   "checkedAt": "2026-11-21T17:28:46+09:00",
+   "checkedAt": "2026-11-21T18:28:36+09:00",
    "soldoutAt": "11.19 01:51"
   },
   {
@@ -18,7 +18,7 @@
    "minimum": 80000,
    "discount": 11000,
    "state": "ok",
-   "checkedAt": "2026-11-21T17:28:46+09:00",
+   "checkedAt": "2026-11-21T18:28:36+09:00",
    "soldoutAt": "11.19 01:51"
   },
   {
@@ -27,7 +27,7 @@
    "minimum": 130000,
    "discount": 17000,
    "state": "ok",
-   "checkedAt": "2026-11-21T17:28:46+09:00",
+   "checkedAt": "2026-11-21T18:28:36+09:00",
    "soldoutAt": "11.19 00:45"
   },
   {
@@ -36,7 +36,7 @@
    "minimum": 200000,
    "discount": 25000,
    "state": "ok",
-   "checkedAt": "2026-11-21T17:28:46+09:00",
+   "checkedAt": "2026-11-21T18:28:36+09:00",
    "soldoutAt": "11.19 00:45"
   },
   {
@@ -45,7 +45,7 @@
    "minimum": 300000,
    "discount": 36000,
    "state": "soldout",
-   "checkedAt": "2026-11-21T17:28:46+09:00",
+   "checkedAt": "2026-11-21T18:28:36+09:00",
    "soldoutAt": "11.19 00:45"
   },
   {
@@ -54,7 +54,7 @@
    "minimum": 500000,
    "discount": 60000,
    "state": "soldout",
-   "checkedAt": "2026-11-21T17:28:46+09:00",
+   "checkedAt": "2026-11-21T18:28:36+09:00",
    "soldoutAt": "11.19 00:45"
   },
   {
@@ -63,7 +63,7 @@
    "minimum": 21,
    "discount": 3,
    "state": "ok",
-   "checkedAt": "2026-11-21T17:28:46+09:00",
+   "checkedAt": "2026-11-21T18:28:36+09:00",
    "soldoutAt": null
   },
   {
@@ -72,7 +72,7 @@
    "minimum": 58,
    "discount": 8,
    "state": "ok",
-   "checkedAt": "2026-11-21T17:28:46+09:00",
+   "checkedAt": "2026-11-21T18:28:36+09:00",
    "soldoutAt": null
   },
   {
@@ -81,7 +81,7 @@
    "minimum": 98,
    "discount": 13,
    "state": "ok",
-   "checkedAt": "2026-11-21T17:28:46+09:00",
+   "checkedAt": "2026-11-21T18:28:36+09:00",
    "soldoutAt": null
   },
   {
@@ -90,7 +90,7 @@
    "minimum": 149,
    "discount": 19,
    "state": "ok",
-   "checkedAt": "2026-11-21T17:28:46+09:00",
+   "checkedAt": "2026-11-21T18:28:36+09:00",
    "soldoutAt": null
   },
   {
@@ -99,7 +99,7 @@
    "minimum": 222,
    "discount": 26,
    "state": "ok",
-   "checkedAt": "2026-11-21T17:28:46+09:00",
+   "checkedAt": "2026-11-21T18:28:36+09:00",
    "soldoutAt": null
   },
   {
@@ -108,7 +108,7 @@
    "minimum": 375,
    "discount": 45,
    "state": "ok",
-   "checkedAt": "2026-11-21T17:28:46+09:00",
+   "checkedAt": "2026-11-21T18:28:36+09:00",
    "soldoutAt": null
   }
  ],
