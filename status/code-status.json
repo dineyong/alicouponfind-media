@@ -1,18 +1,18 @@
 {
- "checkedAt": "2026-11-22T11:28:31+09:00",
+ "checkedAt": "2026-11-22T12:30:02+09:00",
  "method": "알리 결제 화면에서 코드 직접 입력 (주문 안 함)",
  "codes": {
   "SUKR03": {
-   "state": "ok"
+   "state": "unknown"
   },
   "GHRE08": {
-   "state": "ok"
+   "state": "unknown"
   },
   "ZXYH13": {
-   "state": "ok"
+   "state": "unknown"
   },
   "POLK19": {
-   "state": "ok"
+   "state": "unknown"
   },
   "FXNT26": {
    "state": "soldout"
@@ -21,13 +21,13 @@
    "state": "soldout"
   },
   "GONG03": {
-   "state": "ok"
+   "state": "unknown"
   },
   "GONG08": {
-   "state": "ok"
+   "state": "unknown"
   },
   "GONG13": {
-   "state": "ok"
+   "state": "unknown"
   },
   "GONG19": {
    "state": "ok"
