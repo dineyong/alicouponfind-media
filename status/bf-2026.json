@@ -1,193 +1,197 @@
 {
- "updatedAt": "2026-11-23T21:32:57+09:00",
- "basis": "결제창 직접 확인·알리 공식 배너·커뮤니티 제보 기준",
- "headline": "원화 코드 4개 사용 가능 (19:28)",
- "codes": [
-  {
-   "code": "SUKR03",
-   "currency": "KRW",
-   "minimum": 30000,
-   "discount": 4300,
-   "state": "ok",
-   "checkedAt": "2026-11-23T21:32:57+09:00",
-   "soldoutAt": "11.19 01:51"
-  },
-  {
-   "code": "GHRE08",
-   "currency": "KRW",
-   "minimum": 80000,
-   "discount": 11000,
-   "state": "ok",
-   "checkedAt": "2026-11-23T21:32:57+09:00",
-   "soldoutAt": "11.19 01:51"
-  },
-  {
-   "code": "ZXYH13",
-   "currency": "KRW",
-   "minimum": 130000,
-   "discount": 17000,
-   "state": "ok",
-   "checkedAt": "2026-11-23T21:32:57+09:00",
-   "soldoutAt": "11.19 00:45"
-  },
-  {
-   "code": "POLK19",
-   "currency": "KRW",
-   "minimum": 200000,
-   "discount": 25000,
-   "state": "ok",
-   "checkedAt": "2026-11-23T21:32:57+09:00",
-   "soldoutAt": "11.19 00:45"
-  },
-  {
-   "code": "FXNT26",
-   "currency": "KRW",
-   "minimum": 300000,
-   "discount": 36000,
-   "state": "soldout",
-   "checkedAt": "2026-11-23T21:32:57+09:00",
-   "soldoutAt": "11.19 00:45"
-  },
-  {
-   "code": "LKWA45",
-   "currency": "KRW",
-   "minimum": 500000,
-   "discount": 60000,
-   "state": "soldout",
-   "checkedAt": "2026-11-23T21:32:57+09:00",
-   "soldoutAt": "11.19 00:45"
-  },
-  {
-   "code": "GONG03",
-   "currency": "USD",
-   "minimum": 21,
-   "discount": 3,
-   "state": "ok",
-   "checkedAt": "2026-11-23T21:32:57+09:00",
-   "soldoutAt": null
-  },
-  {
-   "code": "GONG08",
-   "currency": "USD",
-   "minimum": 58,
-   "discount": 8,
-   "state": "ok",
-   "checkedAt": "2026-11-23T21:32:57+09:00",
-   "soldoutAt": null
-  },
-  {
-   "code": "GONG13",
-   "currency": "USD",
-   "minimum": 98,
-   "discount": 13,
-   "state": "soldout",
-   "checkedAt": "2026-11-23T21:32:57+09:00",
-   "soldoutAt": "11.23 21:32"
-  },
-  {
-   "code": "GONG19",
-   "currency": "USD",
-   "minimum": 149,
-   "discount": 19,
-   "state": "soldout",
-   "checkedAt": "2026-11-23T21:32:57+09:00",
-   "soldoutAt": "11.23 17:28"
-  },
-  {
-   "code": "GONG26",
-   "currency": "USD",
-   "minimum": 222,
-   "discount": 26,
-   "state": "ok",
-   "checkedAt": "2026-11-23T21:32:57+09:00",
-   "soldoutAt": null
-  },
-  {
-   "code": "GONG45",
-   "currency": "USD",
-   "minimum": 375,
-   "discount": 45,
-   "state": "ok",
-   "checkedAt": "2026-11-23T21:32:57+09:00",
-   "soldoutAt": null
-  }
- ],
- "cards": [
-  {
-   "name": "롯데 VISA",
-   "offer": "US$100 이상 US$30",
-   "status": "live",
-   "note": "11.19 01:55 결제 화면에 할인 표시, 체크카드는 안 된다는 제보",
-   "calc": "롯데 VISA"
-  },
-  {
-   "name": "KB국민 VISA",
-   "offer": "US$150 이상 US$22",
-   "status": "unknown",
-   "note": "공식 안내 기준, 결제 화면 확인 전",
-   "calc": "KB국민 VISA"
-  },
-  {
-   "name": "우리 VISA",
-   "offer": "US$100 이상 US$20",
-   "status": "live",
-   "note": "11.19 01:55 결제 화면에 할인 표시",
-   "calc": "우리 VISA"
-  },
-  {
-   "name": "UnionPay, NH농협",
-   "offer": "US$100 이상 US$16",
-   "status": "live",
-   "note": "11.19 01:55 결제 화면에 할인 표시 (NH 마스터, JCB, UPI 포함)",
-   "calc": "UnionPay·NH농협"
-  },
-  {
-   "name": "Mastercard 등 여러 카드",
-   "offer": "US$100 이상 US$15",
-   "status": "unknown",
-   "note": "01:55 KB Mastercard 할인 표시. 11.20 낮에 삼성카드 할인이 결제창에 안 보인다는 제보 1건"
-  },
-  {
-   "name": "카카오, 네이버, 토스페이",
-   "offer": "16만 원 이상 13,000원",
-   "status": "live",
-   "note": "11.19 01:55 결제 화면에 최대 13,000원 할인 표시"
-  }
- ],
- "buys": [
-  {
-   "item": "에디파이어 M90 스피커",
-   "paid": "US$102.94",
-   "how": "달러 결제 + 카드 즉시 할인 (11.20 퀘이사존 구매 인증 댓글, 같은 글에 14만원대 구매 댓글도 있어요)"
-  },
-  {
-   "item": "에디파이어 MR4 MKII 스피커",
-   "paid": "93,598원",
-   "how": "원화 결제 + 토스페이 8,000원 즉시 할인 (퀘이사존 댓글 제보, 이후 가격이 올랐다는 댓글)"
-  }
- ],
- "gotchas": [
-  "원화 코드는 3만, 8만, 13만, 20만 원 구간 4개가 다시 풀렸어요(17:27, 19:28). 선착순이라 금방 끝날 수 있어요",
-  "카드 할인: 롯데 VISA는 체크카드가 안 되고, 우리 트래블 Mastercard도 할인이 안 됐다는 제보가 있어요. 결제창에 할인 금액이 뜨는지 먼저 보세요",
-  "주문을 취소해도 쓴 코드가 돌아오지 않고 '이미 사용한 코드'로 나온다는 제보가 있어요. 결제 전에 장바구니를 한 번에 정리하세요",
-  "할인코드는 주문 1건에 1개예요. 카드 할인은 달러 결제, 페이 할인은 원화 결제에서 받아요"
- ],
- "news": [
-  {
-   "at": "11.20",
-   "text": "에디파이어 M90 구매 인증이 늘었어요. 달러 결제 + 카드 할인으로 US$102.94 결제 제보"
-  },
-  {
-   "at": "11.19",
-   "text": "19:28 결제창 확인: 20만 원 이상 25,000원 코드 POLK19도 다시 적용돼요. 원화 코드 4개 사용 가능, 30만, 50만 원 구간은 계속 소진"
-  },
-  {
-   "at": "11.19",
-   "text": "17:27 결제창 확인: 원화 코드 SUKR03, GHRE08, ZXYH13이 다시 적용돼요. 20만 원 이상 3개는 계속 소진이에요"
-  },
-  {
-   "at": "11.19",
-   "text": "퀘이사존: 에디파이어 M90, MR4 MKII가 역대가라는 반응이에요. 구매 댓글도 올라왔어요"
-  }
- ]
+  "updatedAt": "2026-11-23T21:45:00+09:00",
+  "basis": "결제창 직접 확인·알리 공식 배너·커뮤니티 제보 기준",
+  "headline": "원화 4개, 달러 4개 사용 가능 (21:32)",
+  "codes": [
+    {
+      "code": "SUKR03",
+      "currency": "KRW",
+      "minimum": 30000,
+      "discount": 4300,
+      "state": "ok",
+      "checkedAt": "2026-11-23T21:32:57+09:00",
+      "soldoutAt": "11.19 01:51"
+    },
+    {
+      "code": "GHRE08",
+      "currency": "KRW",
+      "minimum": 80000,
+      "discount": 11000,
+      "state": "ok",
+      "checkedAt": "2026-11-23T21:32:57+09:00",
+      "soldoutAt": "11.19 01:51"
+    },
+    {
+      "code": "ZXYH13",
+      "currency": "KRW",
+      "minimum": 130000,
+      "discount": 17000,
+      "state": "ok",
+      "checkedAt": "2026-11-23T21:32:57+09:00",
+      "soldoutAt": "11.19 00:45"
+    },
+    {
+      "code": "POLK19",
+      "currency": "KRW",
+      "minimum": 200000,
+      "discount": 25000,
+      "state": "ok",
+      "checkedAt": "2026-11-23T21:32:57+09:00",
+      "soldoutAt": "11.19 00:45"
+    },
+    {
+      "code": "FXNT26",
+      "currency": "KRW",
+      "minimum": 300000,
+      "discount": 36000,
+      "state": "soldout",
+      "checkedAt": "2026-11-23T21:32:57+09:00",
+      "soldoutAt": "11.19 00:45"
+    },
+    {
+      "code": "LKWA45",
+      "currency": "KRW",
+      "minimum": 500000,
+      "discount": 60000,
+      "state": "soldout",
+      "checkedAt": "2026-11-23T21:32:57+09:00",
+      "soldoutAt": "11.19 00:45"
+    },
+    {
+      "code": "GONG03",
+      "currency": "USD",
+      "minimum": 21,
+      "discount": 3,
+      "state": "ok",
+      "checkedAt": "2026-11-23T21:32:57+09:00",
+      "soldoutAt": null
+    },
+    {
+      "code": "GONG08",
+      "currency": "USD",
+      "minimum": 58,
+      "discount": 8,
+      "state": "ok",
+      "checkedAt": "2026-11-23T21:32:57+09:00",
+      "soldoutAt": null
+    },
+    {
+      "code": "GONG13",
+      "currency": "USD",
+      "minimum": 98,
+      "discount": 13,
+      "state": "soldout",
+      "checkedAt": "2026-11-23T21:32:57+09:00",
+      "soldoutAt": "11.23 21:32"
+    },
+    {
+      "code": "GONG19",
+      "currency": "USD",
+      "minimum": 149,
+      "discount": 19,
+      "state": "soldout",
+      "checkedAt": "2026-11-23T21:32:57+09:00",
+      "soldoutAt": "11.23 17:28"
+    },
+    {
+      "code": "GONG26",
+      "currency": "USD",
+      "minimum": 222,
+      "discount": 26,
+      "state": "ok",
+      "checkedAt": "2026-11-23T21:32:57+09:00",
+      "soldoutAt": null
+    },
+    {
+      "code": "GONG45",
+      "currency": "USD",
+      "minimum": 375,
+      "discount": 45,
+      "state": "ok",
+      "checkedAt": "2026-11-23T21:32:57+09:00",
+      "soldoutAt": null
+    }
+  ],
+  "cards": [
+    {
+      "name": "롯데 VISA",
+      "offer": "US$100 이상 US$30",
+      "status": "live",
+      "note": "11.19 01:55 결제 화면에 할인 표시, 체크카드는 안 된다는 제보",
+      "calc": "롯데 VISA"
+    },
+    {
+      "name": "KB국민 VISA",
+      "offer": "US$150 이상 US$22",
+      "status": "unknown",
+      "note": "공식 안내 기준, 결제 화면 확인 전. 11.23 DC 알리갤에 한도가 다시 안 풀린다는 글 1건",
+      "calc": "KB국민 VISA"
+    },
+    {
+      "name": "우리 VISA",
+      "offer": "US$100 이상 US$20",
+      "status": "live",
+      "note": "11.19 01:55 결제 화면에 할인 표시",
+      "calc": "우리 VISA"
+    },
+    {
+      "name": "UnionPay, NH농협",
+      "offer": "US$100 이상 US$16",
+      "status": "live",
+      "note": "11.19 01:55 결제 화면에 할인 표시 (NH 마스터, JCB, UPI 포함)",
+      "calc": "UnionPay·NH농협"
+    },
+    {
+      "name": "Mastercard 등 여러 카드",
+      "offer": "US$100 이상 US$15",
+      "status": "unknown",
+      "note": "01:55 KB Mastercard 할인 표시. 11.20 낮에 삼성카드 할인이 결제창에 안 보인다는 제보 1건"
+    },
+    {
+      "name": "카카오, 네이버, 토스페이",
+      "offer": "16만 원 이상 13,000원",
+      "status": "live",
+      "note": "11.19 01:55 결제 화면에 최대 13,000원 할인 표시"
+    }
+  ],
+  "buys": [
+    {
+      "item": "에디파이어 M90 스피커",
+      "paid": "US$102.94",
+      "how": "달러 결제 + 카드 즉시 할인 (11.20 퀘이사존 구매 인증 댓글, 같은 글에 14만원대 구매 댓글도 있어요)"
+    },
+    {
+      "item": "에디파이어 MR4 MKII 스피커",
+      "paid": "93,598원",
+      "how": "원화 결제 + 토스페이 8,000원 즉시 할인 (퀘이사존 댓글 제보, 이후 가격이 올랐다는 댓글)"
+    }
+  ],
+  "gotchas": [
+    "원화 코드는 3만, 8만, 13만, 20만 원 구간 4개가 사용 가능해요(11.23 21:32). 달러 코드는 13, 19달러 구간이 소진됐어요. 선착순이라 금방 끝날 수 있어요",
+    "카드 할인: 롯데 VISA는 체크카드가 안 되고, 우리 트래블 Mastercard도 할인이 안 됐다는 제보가 있어요. 결제창에 할인 금액이 뜨는지 먼저 보세요",
+    "주문을 취소해도 쓴 코드가 돌아오지 않고 '이미 사용한 코드'로 나온다는 제보가 있어요. 결제 전에 장바구니를 한 번에 정리하세요",
+    "할인코드는 주문 1건에 1개예요. 카드 할인은 달러 결제, 페이 할인은 원화 결제에서 받아요"
+  ],
+  "news": [
+    {
+      "at": "11.23",
+      "text": "21:32 결제창 확인: 달러 코드 GONG13(US$13 할인)도 소진됐어요. 달러 코드는 GONG03, 08, 26, 45 사용 가능"
+    },
+    {
+      "at": "11.23",
+      "text": "GONG19는 09:28 소진, 11:28 다시 풀렸다가 17:28 다시 소진됐어요"
+    },
+    {
+      "at": "11.20",
+      "text": "에디파이어 M90 구매 인증이 늘었어요. 달러 결제 + 카드 할인으로 US$102.94 결제 제보"
+    },
+    {
+      "at": "11.19",
+      "text": "19:28 결제창 확인: 20만 원 이상 25,000원 코드 POLK19도 다시 적용돼요. 원화 코드 4개 사용 가능, 30만, 50만 원 구간은 계속 소진"
+    },
+    {
+      "at": "11.19",
+      "text": "17:27 결제창 확인: 원화 코드 SUKR03, GHRE08, ZXYH13이 다시 적용돼요. 20만 원 이상 3개는 계속 소진이에요"
+    }
+  ]
 }
