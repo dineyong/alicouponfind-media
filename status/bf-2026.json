@@ -1,7 +1,7 @@
 {
- "updatedAt": "2026-11-26T12:28:24+09:00",
+ "updatedAt": "2026-11-26T13:29:16+09:00",
  "basis": "결제창 직접 확인·알리 공식 배너·커뮤니티 제보 기준",
- "headline": "원화 4개, 달러 1개 남음 (12:28)",
+ "headline": "원화 4개, 달러 1개 남음 (13:29)",
  "codes": [
   {
    "code": "SUKR03",
@@ -9,8 +9,9 @@
    "minimum": 30000,
    "discount": 4300,
    "state": "ok",
-   "checkedAt": "2026-11-26T12:28:24+09:00",
-   "soldoutAt": "11.19 01:51"
+   "checkedAt": "2026-11-26T13:29:16+09:00",
+   "soldoutAt": "11.19 01:51",
+   "copies": 23
   },
   {
    "code": "GHRE08",
@@ -18,8 +19,9 @@
    "minimum": 80000,
    "discount": 11000,
    "state": "ok",
-   "checkedAt": "2026-11-26T12:28:24+09:00",
-   "soldoutAt": "11.19 01:51"
+   "checkedAt": "2026-11-26T13:29:16+09:00",
+   "soldoutAt": "11.19 01:51",
+   "copies": 32
   },
   {
    "code": "ZXYH13",
@@ -27,8 +29,9 @@
    "minimum": 130000,
    "discount": 17000,
    "state": "ok",
-   "checkedAt": "2026-11-26T12:28:24+09:00",
-   "soldoutAt": "11.19 00:45"
+   "checkedAt": "2026-11-26T13:29:16+09:00",
+   "soldoutAt": "11.19 00:45",
+   "copies": 50
   },
   {
    "code": "POLK19",
@@ -36,8 +39,9 @@
    "minimum": 200000,
    "discount": 25000,
    "state": "ok",
-   "checkedAt": "2026-11-26T12:28:24+09:00",
-   "soldoutAt": "11.19 00:45"
+   "checkedAt": "2026-11-26T13:29:16+09:00",
+   "soldoutAt": "11.19 00:45",
+   "copies": 60
   },
   {
    "code": "FXNT26",
@@ -45,8 +49,9 @@
    "minimum": 300000,
    "discount": 36000,
    "state": "soldout",
-   "checkedAt": "2026-11-26T12:28:24+09:00",
-   "soldoutAt": "11.19 00:45"
+   "checkedAt": "2026-11-26T13:29:16+09:00",
+   "soldoutAt": "11.19 00:45",
+   "copies": 4
   },
   {
    "code": "LKWA45",
@@ -54,8 +59,9 @@
    "minimum": 500000,
    "discount": 60000,
    "state": "soldout",
-   "checkedAt": "2026-11-26T12:28:24+09:00",
-   "soldoutAt": "11.19 00:45"
+   "checkedAt": "2026-11-26T13:29:16+09:00",
+   "soldoutAt": "11.19 00:45",
+   "copies": 0
   },
   {
    "code": "GONG03",
@@ -63,8 +69,9 @@
    "minimum": 21,
    "discount": 3,
    "state": "ok",
-   "checkedAt": "2026-11-26T12:28:24+09:00",
-   "soldoutAt": null
+   "checkedAt": "2026-11-26T13:29:16+09:00",
+   "soldoutAt": null,
+   "copies": 32
   },
   {
    "code": "GONG08",
@@ -72,8 +79,9 @@
    "minimum": 58,
    "discount": 8,
    "state": "soldout",
-   "checkedAt": "2026-11-26T12:28:24+09:00",
-   "soldoutAt": "11.24 20:28"
+   "checkedAt": "2026-11-26T13:29:16+09:00",
+   "soldoutAt": "11.24 20:28",
+   "copies": 24
   },
   {
    "code": "GONG13",
@@ -81,8 +89,9 @@
    "minimum": 98,
    "discount": 13,
    "state": "soldout",
-   "checkedAt": "2026-11-26T12:28:24+09:00",
-   "soldoutAt": "11.23 21:32"
+   "checkedAt": "2026-11-26T13:29:16+09:00",
+   "soldoutAt": "11.23 21:32",
+   "copies": 16
   },
   {
    "code": "GONG19",
@@ -90,8 +99,9 @@
    "minimum": 149,
    "discount": 19,
    "state": "soldout",
-   "checkedAt": "2026-11-26T12:28:24+09:00",
-   "soldoutAt": "11.23 17:28"
+   "checkedAt": "2026-11-26T13:29:16+09:00",
+   "soldoutAt": "11.23 17:28",
+   "copies": 19
   },
   {
    "code": "GONG26",
@@ -99,8 +109,9 @@
    "minimum": 222,
    "discount": 26,
    "state": "soldout",
-   "checkedAt": "2026-11-26T12:28:24+09:00",
-   "soldoutAt": "11.24 08:28"
+   "checkedAt": "2026-11-26T13:29:16+09:00",
+   "soldoutAt": "11.24 08:28",
+   "copies": 17
   },
   {
    "code": "GONG45",
@@ -108,8 +119,9 @@
    "minimum": 375,
    "discount": 45,
    "state": "soldout",
-   "checkedAt": "2026-11-26T12:28:24+09:00",
-   "soldoutAt": "11.24 15:28"
+   "checkedAt": "2026-11-26T13:29:16+09:00",
+   "soldoutAt": "11.24 15:28",
+   "copies": 4
   }
  ],
  "cards": [
