@@ -1,5 +1,5 @@
 {
- "checkedAt": "2026-11-27T23:28:34+09:00",
+ "checkedAt": "2026-11-28T08:29:41+09:00",
  "method": "알리 결제 화면에서 코드 직접 입력 (주문 안 함)",
  "codes": {
   "SUKR03": {
@@ -9,10 +9,10 @@
    "state": "ok"
   },
   "ZXYH13": {
-   "state": "ok"
+   "state": "soldout"
   },
   "POLK19": {
-   "state": "ok"
+   "state": "soldout"
   },
   "FXNT26": {
    "state": "soldout"
