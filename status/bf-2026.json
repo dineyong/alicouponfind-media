@@ -1,7 +1,7 @@
 {
   "updatedAt": "2026-11-28T13:33:06+09:00",
   "basis": "결제창 직접 확인·알리 공식 배너·커뮤니티 제보 기준",
-  "headline": "원화 2개, 달러 0개 남음 (13:32)",
+  "headline": "원화 2개, 달러 0개 남음 (14:28)",
   "codes": [
     {
       "code": "SUKR03",
@@ -9,7 +9,7 @@
       "minimum": 30000,
       "discount": 4300,
       "state": "ok",
-      "checkedAt": "2026-11-28T13:32:17+09:00",
+      "checkedAt": "2026-11-28T14:28:11+09:00",
       "soldoutAt": "11.19 01:51",
       "copies": 23
     },
@@ -19,7 +19,7 @@
       "minimum": 80000,
       "discount": 11000,
       "state": "ok",
-      "checkedAt": "2026-11-28T13:32:17+09:00",
+      "checkedAt": "2026-11-28T14:28:11+09:00",
       "soldoutAt": "11.19 01:51",
       "copies": 32
     },
@@ -29,7 +29,7 @@
       "minimum": 130000,
       "discount": 17000,
       "state": "soldout",
-      "checkedAt": "2026-11-28T13:32:17+09:00",
+      "checkedAt": "2026-11-28T14:28:11+09:00",
       "soldoutAt": "11.28 08:29",
       "copies": 50
     },
@@ -39,7 +39,7 @@
       "minimum": 200000,
       "discount": 25000,
       "state": "soldout",
-      "checkedAt": "2026-11-28T13:32:17+09:00",
+      "checkedAt": "2026-11-28T14:28:11+09:00",
       "soldoutAt": "11.28 08:29",
       "copies": 62
     },
@@ -49,7 +49,7 @@
       "minimum": 300000,
       "discount": 36000,
       "state": "soldout",
-      "checkedAt": "2026-11-28T13:32:17+09:00",
+      "checkedAt": "2026-11-28T14:28:11+09:00",
       "soldoutAt": "11.19 00:45",
       "copies": 4
     },
@@ -59,7 +59,7 @@
       "minimum": 500000,
       "discount": 60000,
       "state": "soldout",
-      "checkedAt": "2026-11-28T13:32:17+09:00",
+      "checkedAt": "2026-11-28T14:28:11+09:00",
       "soldoutAt": "11.19 00:45",
       "copies": 0
     },
@@ -69,7 +69,7 @@
       "minimum": 21,
       "discount": 3,
       "state": "soldout",
-      "checkedAt": "2026-11-28T13:32:17+09:00",
+      "checkedAt": "2026-11-28T14:28:11+09:00",
       "soldoutAt": "11.27 08:28",
       "copies": 32
     },
@@ -79,7 +79,7 @@
       "minimum": 58,
       "discount": 8,
       "state": "soldout",
-      "checkedAt": "2026-11-28T13:32:17+09:00",
+      "checkedAt": "2026-11-28T14:28:11+09:00",
       "soldoutAt": "11.24 20:28",
       "copies": 24
     },
@@ -89,7 +89,7 @@
       "minimum": 98,
       "discount": 13,
       "state": "soldout",
-      "checkedAt": "2026-11-28T13:32:17+09:00",
+      "checkedAt": "2026-11-28T14:28:11+09:00",
       "soldoutAt": "11.23 21:32",
       "copies": 16
     },
@@ -99,7 +99,7 @@
       "minimum": 149,
       "discount": 19,
       "state": "soldout",
-      "checkedAt": "2026-11-28T13:32:17+09:00",
+      "checkedAt": "2026-11-28T14:28:11+09:00",
       "soldoutAt": "11.23 17:28",
       "copies": 19
     },
@@ -109,7 +109,7 @@
       "minimum": 222,
       "discount": 26,
       "state": "soldout",
-      "checkedAt": "2026-11-28T13:32:17+09:00",
+      "checkedAt": "2026-11-28T14:28:11+09:00",
       "soldoutAt": "11.24 08:28",
       "copies": 17
     },
@@ -119,7 +119,7 @@
       "minimum": 375,
       "discount": 45,
       "state": "soldout",
-      "checkedAt": "2026-11-28T13:32:17+09:00",
+      "checkedAt": "2026-11-28T14:28:11+09:00",
       "soldoutAt": "11.24 15:28",
       "copies": 4
     }
